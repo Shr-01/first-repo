@@ -4,8 +4,8 @@
 
 this is some installaitons 
 
-'''Bash
-npu install
-'''
+```bash
+npm install
+```
 
     
